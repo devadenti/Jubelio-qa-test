@@ -23,7 +23,7 @@ Given('User go to inventory page') do
     elementSet_quanitity = find(:xpath, "//input[@class=' editor-main']")
     elementSet_quanitity.set(quantity)
     find(:xpath, "//*[@id='page-wrapper']/div[3]/div/div/div/div[2]/div/div/div/div/div[1]/div/div[2]/div/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/div[1]/div/div[5]/div/div/span/div").click
-    sleep 5
+    sleep 2
   end
   
   And('User click simpan button') do
