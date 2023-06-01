@@ -44,10 +44,10 @@
     end
     ```
 ### Executing The Test
-*Step 1:** Clone the respository
+**Step 1:** Clone the respository
   [Jubelio-qa-test](https://github.com/devadenti/Jubelio-qa-test) using :
     `git clone https://github.com/devadenti/Jubelio-qa-test.git`
-*Step 2:** To execute the test script, run the following script on terminal in vscode.
+**Step 2:** To execute the test script, run the following script on terminal in vscode.
     `cucumber`
     or using this code to run a feature or scenario by using a tag :
     `bundle exec cucumber --tags "@inventory"`
@@ -58,14 +58,17 @@
 
 ### Run Test Result
 *  @login test
+    https://github.com/devadenti/Jubelio-qa-test/assets/54857599/4ee2780e-d240-4236-b0c9-cb8d5c9a7744
 
 *  @inventory test
-
+    https://github.com/devadenti/Jubelio-qa-test/assets/54857599/8ee4c181-7aa5-4466-86cc-de1a0782b2fb
+    
 *  Cucumber HTML Test Report
     * features/login.feature
       ![@login](https://github.com/devadenti/Jubelio-qa-test/assets/54857599/4680d432-6d88-488a-87dc-3fe22bc2c46e)
 
     * features/inventory.feature
+      ![@inventory](https://github.com/devadenti/Jubelio-qa-test/assets/54857599/5f7f690f-276e-4be5-b354-013fee46eacc)
 
 
 
