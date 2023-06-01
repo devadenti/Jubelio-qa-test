@@ -1,4 +1,4 @@
-Feature: 
+Feature: Update quantity stock in nventory Page
 
 @inventory
 Scenario: User success update stock in inventory page
