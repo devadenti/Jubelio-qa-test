@@ -53,8 +53,19 @@
     `bundle exec cucumber --tags "@inventory"`
 
 ### Test Reports
-*  Run the following command to get test reports in html.
+*  Run the following command to get test report. A report will be generated as report.html
     `cucumber -f html -o report.html`
+
+### Run Test Result
+*  @login test
+
+*  @inventory test
+
+*  Cucumber HTML Test Report
+    * features/login.feature
+      ![@login](https://github.com/devadenti/Jubelio-qa-test/assets/54857599/4680d432-6d88-488a-87dc-3fe22bc2c46e)
+
+    * features/inventory.feature
 
 
 
