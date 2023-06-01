@@ -76,4 +76,3 @@ https://github.com/devadenti/Jubelio-qa-test/assets/54857599/a9e26af4-a3e7-4967-
       ![@inventory](https://github.com/devadenti/Jubelio-qa-test/assets/54857599/5f7f690f-276e-4be5-b354-013fee46eacc)
 
 
-
