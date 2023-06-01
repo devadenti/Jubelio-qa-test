@@ -8,7 +8,7 @@
 * [Cucumber](https://cucumber.io/docs/installation/) 
 * [Cucumber (Gherkin) plugin](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete) - This extension adds rich language support for the Cucumber (Gherkin) language to VS Code
 
-* [Ruby Gems](rubygems.org) - 
+* [Ruby Gems](rubygems.org) 
   * For **Windows**, you can download from the [official website](https://rubyinstaller.org/downloads/).
   * Run this command on your terminal vscode
     `touch Gemfile`
