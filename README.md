@@ -57,12 +57,12 @@
     `cucumber -f html -o report.html`
 
 ### Run Test Result
-*  @login test
-    https://github.com/devadenti/Jubelio-qa-test/assets/54857599/4ee2780e-d240-4236-b0c9-cb8d5c9a7744
+*  [@login test](https://github.com/devadenti/Jubelio-qa-test/assets/54857599/4ee2780e-d240-4236-b0c9-cb8d5c9a7744)
+    https://github-production-user-asset-6210df.s3.amazonaws.com/54857599/242677162-4ee2780e-d240-4236-b0c9-cb8d5c9a7744.mp4
 
-*  @inventory test
-    https://github.com/devadenti/Jubelio-qa-test/assets/54857599/8ee4c181-7aa5-4466-86cc-de1a0782b2fb
-    
+*  [@inventory test](https://github.com/devadenti/Jubelio-qa-test/assets/54857599/8ee4c181-7aa5-4466-86cc-de1a0782b2fb)
+    https://github-production-user-asset-6210df.s3.amazonaws.com/54857599/242677254-8ee4c181-7aa5-4466-86cc-de1a0782b2fb.mp4
+
 *  Cucumber HTML Test Report
     * features/login.feature
       ![@login](https://github.com/devadenti/Jubelio-qa-test/assets/54857599/4680d432-6d88-488a-87dc-3fe22bc2c46e)
