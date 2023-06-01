@@ -23,5 +23,5 @@ Given('User go to login page') do
 
   And('User should see title Selamat Datang on homepage') do 
     expect(find(:xpath, '//*[@class="col-xs-10"]'))
-    sleep 10
+    sleep 5
   end
