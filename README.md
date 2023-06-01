@@ -25,6 +25,7 @@
   * Install Gemfile using : `bundle install`
   * Then, initialize a features/ directory: `cucumber --init`
   * configure file env.rb. In this project using chrome as default driver. 
+  
     ```
     require 'capybara'
     require 'capybara/cucumber'
@@ -45,18 +46,11 @@
 ### Executing The Test
 *Step 1:** Clone the respository
   [Jubelio-qa-test](https://github.com/devadenti/Jubelio-qa-test) using :
-    ```
-    git clone https://github.com/devadenti/Jubelio-qa-test.git
-
-    ```
+    `git clone https://github.com/devadenti/Jubelio-qa-test.git`
 *Step 2:** To execute the test script, run the following script on terminal in vscode.
-    ```bash
-    cucumber
-    ```
+    `cucumber`
     or using this code to run a feature or scenario by using a tag :
-    ```bash
-    bundle exec cucumber --tags "@inventory"
-    ```    
+    `bundle exec cucumber --tags "@inventory"`
 
 ### Test Reports
 *  Run the following command to get test reports in html.
