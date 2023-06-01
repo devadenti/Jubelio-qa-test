@@ -24,8 +24,6 @@
     ```
   * Install Gemfile using : `bundle install`
   * Then, initialize a features/ directory: `cucumber --init`
-  * : `cucumber --init`
-
   * configure file env.rb. In this project using chrome as default driver. 
     ```
     require 'capybara'
